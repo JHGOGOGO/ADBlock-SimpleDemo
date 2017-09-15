@@ -4,6 +4,8 @@
 
 实现了ADBlock屏蔽广告的两大原理：1.阻塞资源 2.隐藏元素
 
+详细介绍实现原理博客：http://www.jianshu.com/p/4bea2fcc7193
+
 本扩展程序安装在chrome拓展可以直接使用，chrome插件安装及配置参考：
 http://open.chrome.360.cn/extension_dev/getstarted.html
 
